@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.flexRow {
+  display: flex;
+}
+
+.alert {
+  color: #fff;
+}
+.alert-success {
+  background-color: green;
+}
+
+.alert-error {
+  background-color: red;
+}

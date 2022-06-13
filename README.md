@@ -1,2 +1,2 @@
-# rest-crud-demo-v2
+# rest-crud-demo
 Created with CodeSandbox
